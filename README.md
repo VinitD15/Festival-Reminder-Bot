@@ -56,22 +56,11 @@ This means your data will stay safe even after you close the program.
 -- File handling for saving data
 
 ## Output
-## 🖥️ Output Example
-
-![image_alt](https://github.com/VinitD15/Festival-Reminder-Bot/blob/main/Festival%20bot.png?raw=true)
 
 When you run the bot, you will see a menu like this:
 
+![image_alt](https://github.com/VinitD15/Festival-Reminder-Bot/blob/main/Festival%20bot.png?raw=true)
 
-=== Festival Reminder Bot ===
-1. View all saved festivals
-2. Add a new festival
-3. Delete a festival
-4. Check reminders (today / next 7 days)
-5. Show upcoming festivals within next N days
-6. Export festivals to JSON (backup)
-7. Exit
-Choose an option (1-7):
 
 
 
