@@ -56,7 +56,13 @@ This means your data will stay safe even after you close the program.
 -- File handling for saving data
 
 ## Output
+## 🖥️ Output Example
+
 ![Screen Shot](Festival bot.png)
+
+When you run the bot, you will see a menu like this:
+
+
 === Festival Reminder Bot ===
 1. View all saved festivals
 2. Add a new festival
@@ -66,5 +72,6 @@ This means your data will stay safe even after you close the program.
 6. Export festivals to JSON (backup)
 7. Exit
 Choose an option (1-7):
+
 
 
