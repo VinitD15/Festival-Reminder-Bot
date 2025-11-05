@@ -58,7 +58,7 @@ This means your data will stay safe even after you close the program.
 ## Output
 ## 🖥️ Output Example
 
-![Screen Shot](Festival bot.png)
+![image_alt](https://github.com/VinitD15/Festival-Reminder-Bot/blob/main/Festival%20bot.png?raw=true)
 
 When you run the bot, you will see a menu like this:
 
@@ -72,6 +72,7 @@ When you run the bot, you will see a menu like this:
 6. Export festivals to JSON (backup)
 7. Exit
 Choose an option (1-7):
+
 
 
 
